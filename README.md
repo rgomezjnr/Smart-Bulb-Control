@@ -10,6 +10,16 @@ Rainmeter skin for controlling smart light bulbs
 2. Set your bulb's IP address in [Smart Bulb Control.ini](https://github.com/rgomezjnr/Smart-Bulb-Control/blob/master/Smart%20Bulb%20Control.ini)
 3. Refresh skin
 
+## Usage
+Left-click to toggle smart bulb on and off.
+
+![toggle smart bulb](toggle-smart-bulb.gif)
+
+Right-click to select scene. A maximum of 25 scenes can be listed in the context menu.
+Modify the scenes list as desired in [Smart Bulb Control.ini](https://github.com/rgomezjnr/Smart-Bulb-Control/blob/master/Smart%20Bulb%20Control.ini).
+
+![select scene](select-scene.png)
+
 ## Source code
 https://github.com/rgomezjnr/Smart-Bulb-Control
 
