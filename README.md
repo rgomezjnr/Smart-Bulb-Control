@@ -6,7 +6,7 @@ Rainmeter skin for controlling smart light bulbs
 - [wizcon](https://github.com/rgomezjnr/wizcon)
 
 ## Installation
-1. Install [Smart Bulb Control_0.1.0.rmskin](https://github.com/rgomezjnr/Smart-Bulb-Control/blob/master/Smart%20Bulb%20Control_0.1.0.rmskin) package
+1. Install [Smart Bulb Control 0.2.0.rmskin](https://github.com/rgomezjnr/Smart-Bulb-Control/blob/master/Smart%20Bulb%20Control%200.2.0.rmskin) package
 2. Set your bulb's IP address in [Smart Bulb Control.ini](https://github.com/rgomezjnr/Smart-Bulb-Control/blob/master/Smart%20Bulb%20Control.ini)
 3. Refresh skin
 
