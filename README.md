@@ -20,6 +20,10 @@ Modify the scenes list as desired in [Smart Bulb Control.ini](https://github.com
 
 ![select scene](select-scene.png)
 
+Scroll wheel up to increase brightness. Scroll wheel down to decrease brightness.
+
+![select scene](change-brightness.gif)
+
 ## Source code
 https://github.com/rgomezjnr/Smart-Bulb-Control
 
