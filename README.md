@@ -13,16 +13,16 @@ Rainmeter skin for controlling smart light bulbs
 ## Usage
 Left-click to toggle smart bulb on and off.
 
-![toggle smart bulb](toggle-smart-bulb.gif)
+![toggle smart bulb](images/toggle-smart-bulb.gif)
 
 Right-click to select scene. A maximum of 25 scenes can be listed in the context menu.
 Modify the scenes list as desired in [Smart Bulb Control.ini](https://github.com/rgomezjnr/Smart-Bulb-Control/blob/master/Smart%20Bulb%20Control.ini).
 
-![select scene](select-scene.png)
+![select scene](images/select-scene.png)
 
 Scroll wheel up to increase brightness. Scroll wheel down to decrease brightness.
 
-![select scene](change-brightness.gif)
+![select scene](images/change-brightness.gif)
 
 ## Source code
 https://github.com/rgomezjnr/Smart-Bulb-Control
