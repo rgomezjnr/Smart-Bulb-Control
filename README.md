@@ -11,9 +11,9 @@ Rainmeter skin for controlling smart light bulbs
 
         pip install wizcon
 
-2. Install [Smart Bulb Control 0.2.0.rmskin](https://github.com/rgomezjnr/Smart-Bulb-Control/blob/master/Smart%20Bulb%20Control%200.2.0.rmskin) package
+2. Install [Smart Bulb Control 0.3.1.rmskin](https://github.com/rgomezjnr/Smart-Bulb-Control/blob/master/Smart%20Bulb%20Control%200.3.1.rmskin) package
 3. Set your bulb's IP address in [Smart Bulb Control.ini](https://github.com/rgomezjnr/Smart-Bulb-Control/blob/master/Smart%20Bulb%20Control.ini)
-4. Refresh skin
+4. Load skin
 
 ## Usage
 Left-click to toggle smart bulb on and off.
